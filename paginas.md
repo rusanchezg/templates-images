@@ -34,11 +34,11 @@ Avisos de privacidad.
 Accesibilidad.
 Ayuda.
 
-<img width="452" alt="image" src="https://github.com/rusanchezg/documentos/assets/132622470/d77ce1b5-5a51-4a37-9b92-b1d79bf6db2d">
+<img width="452" alt="image" src="https://raw.githubusercontent.com/rusanchezg/templates-images/main/paginas/publicaciones-pendientes.png">
 
-<img width="453" alt="image" src="https://github.com/rusanchezg/documentos/assets/132622470/2db286f4-2299-4af5-8e0d-57e6eb91189d">
+<img width="453" alt="image" src="https://raw.githubusercontent.com/rusanchezg/templates-images/main/paginas/publicaciones-pendientes2.png">
 
-<img width="282" alt="image" src="https://github.com/rusanchezg/documentos/assets/132622470/544eec5a-f295-4bd1-9938-671b142291e0">
+<img width="282" alt="image" src="https://raw.githubusercontent.com/rusanchezg/templates-images/main/paginas/publicaciones-pendientes3.png">
 
 
 ### La página Opiniones-Historial
@@ -68,12 +68,12 @@ Aviso de privacidad.
 Accesibilidad.
 Ayuda.
 
-<img width="448" alt="image" src="https://github.com/rusanchezg/documentos/assets/132622470/dd1cf8ed-dd61-4939-8108-9f411158c0a8">
+<img width="448" alt="image" src="https://raw.githubusercontent.com/rusanchezg/templates-images/main/paginas/opiniones-historial.png">
 
 
 ### Opiniones por calificar
 
-La página "Opiniones-Historial" tiene la siguiente estructura:
+La página "Opiniones-pendientes" tiene la siguiente estructura:
 
 En el header, se encuentra únicamente el logo de la página en la parte superior izquierda.
 
@@ -99,7 +99,7 @@ Aviso de privacidad.
 Accesibilidad.
 Ayuda.
 
-<img width="433" alt="image" src="https://github.com/rusanchezg/documentos/assets/132622470/10078555-5bd4-4d35-9708-b8d03db61cb7">
+<img width="433" alt="image" src="https://raw.githubusercontent.com/rusanchezg/templates-images/main/paginas/opiniones-pendientes.png">
 
 
 ### Pagina Contratar
@@ -124,5 +124,5 @@ Aviso de privacidad.
 Accesibilidad.
 Ayuda.
 
-<img width="203" alt="image" src="https://github.com/rusanchezg/documentos/assets/132622470/6e527299-9016-42a2-ae87-a0769bad774d">
+<img width="203" alt="image" src="https://raw.githubusercontent.com/rusanchezg/templates-images/main/paginas/contratar.png">
 
